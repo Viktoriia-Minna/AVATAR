@@ -178,6 +178,7 @@ padding-bottom: 10px;
     margin-top: 10px;
     padding-top: 35px;
     padding-bottom: 25px;
+    position: relative;
 
 
 
@@ -197,6 +198,8 @@ padding-bottom: 10px;
     border-left: 1px solid #ffffff;
     margin-left: 80px;
     width: 689px;
+    position: relative;
+    z-index: 3;
 }
 .a3 {
     /* ©2023 Avatar: The Way Of Water. All rights reserved */
@@ -220,6 +223,27 @@ text-align: center;
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 200px;
+    height: 170px;
+    left: 0;
 }
+.logo-footer {
+    position: relative;
+    z-index: 3;
 
+
+
+}
+.section5 {
+    background-image: url(./Group\ 38.png);
+    padding-top: 330px;
+    padding-bottom: 331px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section4 {
+    background-image: url(./Group\ 40.png);
+    padding-top: 330px;
+    padding-bottom: 331px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
